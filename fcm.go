@@ -1,4 +1,4 @@
-package firebase
+package fcm_gateway
 
 import (
 	"context"
